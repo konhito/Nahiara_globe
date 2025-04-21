@@ -75,7 +75,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: -25.2744,
     lng: 133.7751,
     description: "Symbolizes unity and resilience",
-    image: "/flowers/golden-wattle.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Acacia_pycnantha_golden_wattle.jpg",
   },
   {
     country: "Canada",
@@ -83,7 +84,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: 56.1304,
     lng: -106.3468,
     description: "Represents Canadian heritage and natural beauty",
-    image: "/flowers/maple-leaf.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/Maple_leaf_--_Acer_saccharum.jpg",
   },
   {
     country: "Mexico",
@@ -91,7 +93,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: 23.6345,
     lng: -102.5528,
     description: "Represents dignity and grace",
-    image: "/flowers/dahlia.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dahlia_red_and_white_flower.jpg",
   },
   {
     country: "Brazil",
@@ -99,7 +102,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: -14.235,
     lng: -51.9253,
     description: "Known for its exotic beauty and diversity",
-    image: "/flowers/cattleya.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/7/7d/Cattleya_labiata_Orchi_1310.jpg",
   },
   {
     country: "South Africa",
@@ -107,7 +111,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: -30.5595,
     lng: 22.9375,
     description: "Symbolizes diversity and courage",
-    image: "/flowers/protea.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/9/95/Protea_cynaroides_3.jpg",
   },
   {
     country: "Thailand",
@@ -115,7 +120,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: 15.87,
     lng: 100.9925,
     description: "Golden shower tree representing royalty",
-    image: "/flowers/ratchaphruek.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/b/b7/Cassia_fistula_flowers.jpg",
   },
   {
     country: "Iran",
@@ -123,7 +129,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: 32.4279,
     lng: 53.688,
     description: "Symbol of love and spiritual awakening",
-    image: "/flowers/red-rose.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Small_Red_Rose.JPG",
   },
   {
     country: "Egypt",
@@ -131,7 +138,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: 26.8206,
     lng: 30.8025,
     description: "Ancient symbol of rebirth and the sun",
-    image: "/flowers/blue-lotus.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Nymphaea_caerulea.jpg",
   },
   {
     country: "Greece",
@@ -139,7 +147,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: 39.0742,
     lng: 21.8243,
     description: "Symbol of Athens and ancient heritage",
-    image: "/flowers/violet.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/Viola_odorata_-_Sweet_Violet.jpg",
   },
   {
     country: "Spain",
@@ -147,7 +156,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: 40.4637,
     lng: -3.7492,
     description: "Represents passion and love",
-    image: "/flowers/carnation.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dianthus_caryophyllus_-_Clavel_-_Carnation_-_01.jpg",
   },
   {
     country: "New Zealand",
@@ -155,7 +165,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: -40.9006,
     lng: 174.886,
     description: "Native yellow flower symbolizing new life",
-    image: "/flowers/kowhai.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sophora_microphylla_flowers.jpg",
   },
   {
     country: "Switzerland",
@@ -163,7 +174,8 @@ export const nationalFlowers: NationalFlower[] = [
     lat: 46.8182,
     lng: 8.2275,
     description: "Symbol of nobility and purity",
-    image: "/flowers/edelweiss.jpg",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Edelweiss_3.jpg",
   },
   {
     country: "Ukraine",
